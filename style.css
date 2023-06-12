@@ -1,0 +1,32 @@
+body{
+    background-image: url("images/Restaurant-Plein-Sud-Martel.jpg");
+    background-size: cover;
+
+}
+.c-titre{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+
+}
+.titre1{
+    text-align: center;
+    background-color: rgba(150, 150, 154, 0.697) ;
+    -webkit-box-shadow: 0px 0px 15px 3px rgba(150,150,154,0.96); 
+    box-shadow: 0px 0px 15px 3px rgba(150,150,154,0.96);
+    width: 32%;
+}
+.c-menu1{
+    display: flex;
+    justify-content:center ;
+}
+.c-image{
+    width: 60%;
+
+   
+}
+.menu1{
+    width: 100%;
+    -webkit-box-shadow: 0px 0px 15px 3px rgba(0,0,0,0.96); 
+    box-shadow: 0px 0px 15px 3px rgba(0,0,0,0.96);
+}
